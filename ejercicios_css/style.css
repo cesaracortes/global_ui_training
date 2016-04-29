@@ -1,0 +1,69 @@
+#square {
+	border-style: solid;
+	border-width: 10px;
+	border-color: black;
+	background: grey ;
+	height: 300px;
+	width: 400px
+}
+
+
+
+td {
+	
+}
+
+
+#perfil #bla{
+	color: red
+}
+
+
+.yellow_look{
+	color: yellow;
+
+}
+
+.orange_look{
+	color: orange;
+}
+
+.grey_look{
+	color: #D3D3D3;
+}
+
+
+.danger{
+	color: red;
+
+}
+
+.orange_side{
+	color: orange;
+}
+
+#radio_input{
+	color: yellow;
+
+}
+
+
+
+.left_side{
+	padding-right: 30px;
+	color: white;
+	font-style: italic;
+}
+
+
+#text {
+	padding-top: 0px;
+	color: red
+}
+
+#left_side .status{
+	padding-top: 40px
+}
+
+
+
