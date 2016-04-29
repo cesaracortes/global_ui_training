@@ -34,11 +34,22 @@ td {
 
 .danger{
 	color: red;
+	font-style: bold;
+	position: relative;
+	bottom: 10px;
 
 }
 
 .orange_side{
 	color: orange;
+
+
+}
+
+#up_yellow_look{
+	color: yellow;
+	position: relative;
+	bottom: 10px;
 }
 
 #radio_input{
