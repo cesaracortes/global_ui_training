@@ -1,0 +1,32 @@
+th {
+	border: 1px solid #ddd;
+	background-color: #66cc00;
+	color: white;
+	text-align: left;
+	padding: 8px;
+}
+
+td {
+	padding: 8px;
+	border: 1px solid #ddd;
+}
+
+table {
+	font-family: Verdana, Geneva, sans-serif ;
+	border: 1px solid #ddd;
+	border-collapse: collapse;
+	position: absolute;
+	width: 650px;
+	top: 200px;
+	left: 350px;
+}
+
+.par {
+	background: #F5F5DC;
+	 color: #333333;
+}
+
+.grey_font{
+	 color: #333333;
+}
+
